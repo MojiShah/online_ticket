@@ -24,15 +24,6 @@ countrySelectBox.addEventListener('change',function(){
 })
 
 
-// var users = [
-//   "Hossein",
-//   "Daeijoonjan",
-//   "Moji",
-//   "Mohammadjavd",
-//   "mammadreza",
-//   "alimelek",
-//   "Baba",
-// ];
 
 // users.forEach(function (name) {
 //   console.log(name);
